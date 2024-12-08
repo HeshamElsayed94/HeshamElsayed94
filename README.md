@@ -4,7 +4,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/gehad-shalaby-7aa3b5250)
-[![](https://img.shields.io/badge/Outlook-HeshamElsayedAhmed@outlook.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![](https://img.shields.io/badge/Outlook-HeshamElsayedAhmed@outlook.com-red)](https://mail.outlook.com/mail/u/0/?tab=km#inbox)
 [![](https://img.shields.io/badge/Facebook-Hesham-brightgreen)](https://www.facebook.com/Hesham0.0elsayed)
 [![](https://img.shields.io/badge/instagram-Gehad-blue)](https://instagram.com/gehad_shalaby30?igshid=YmMyMTA2M2Y=)
 
