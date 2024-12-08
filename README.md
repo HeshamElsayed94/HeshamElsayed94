@@ -1,6 +1,6 @@
 # Hi , I'm Hesham Elsayed 👋🏻
 
- 🔭I am a graduate of the ITI Full Stack Development program..<br> 🌱I’m currently learning Computer Science .<br> ⚡I am a competitive programmer .<br> 📫 How to reach me : HeshamElsayedAhmed@outlook.com .
+ 🔭I am a graduate of the ITI Full Stack Development program.<br> 🌱I’m currently learning Computer Science .<br> ⚡I am a competitive programmer .<br> 📫 How to reach me : HeshamElsayedAhmed@outlook.com .
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/hesham-elsayed-dot-net-developer/)
