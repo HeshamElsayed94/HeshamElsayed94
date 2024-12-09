@@ -37,7 +37,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hesham749&theme=dark)](https://git.io/streak-stats)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hesham749&show_icons=true&locale=en&layout=compact" alt="hesham749" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham749&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
