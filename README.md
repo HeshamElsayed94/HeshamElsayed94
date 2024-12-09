@@ -7,10 +7,12 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Hesham749&style=flat-square&color=blue" alt=""/>
 
-<h1 border=0>
+<p><font size=7><b>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</font>
+</b>
+</p>
 
 ---
 
