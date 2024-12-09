@@ -38,8 +38,8 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hesham749&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Hesham749&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham749&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 </div>
 
