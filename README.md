@@ -46,7 +46,6 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Hesham749
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hesham749&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
