@@ -60,7 +60,8 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 <img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
 
 ###
-
+</div>
+<div align="center">
 ---
 
 ### :fire: My Stats :
@@ -69,4 +70,3 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham749&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
