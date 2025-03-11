@@ -62,8 +62,8 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 ###
 ---
 
-### :fire: My Stats :
 </div>
+### :fire: My Stats :
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Hesham749&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hesham749&theme=highcontrast&hide_border=false)<br/>
