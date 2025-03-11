@@ -60,11 +60,11 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 <img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
 
 ###
-</div>
-<div align="center">
 ---
 
 ### :fire: My Stats :
+</div>
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Hesham749&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hesham749&theme=highcontrast&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham749&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
