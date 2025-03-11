@@ -63,7 +63,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=Hesham749&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Hesham749&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hesham749&theme=highcontrast&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hesham749&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
