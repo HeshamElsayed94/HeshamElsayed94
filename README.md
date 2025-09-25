@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Hesham749&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=HeshamElsayed94&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hey There , I'm Hesham Elsayed
@@ -27,7 +27,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: In my free time, I solve problems on CodeForces , LeetCode , HackerRank and read tech articles.
 - :mailbox:How to reach me: </br></br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/hesham-elsayed-dot-net-developer/)
-[![](https://img.shields.io/badge/Outlook-HeshamElsayedAhmed-blue)](mailto:HeshamElsayedAhmed@outlook.com)
+[![](https://img.shields.io/badge/Gmail-HeshamElsayedAhmed94-blue)](mailto:HeshamElsayedAhmed94@gmail.com)
 
 
 ---
