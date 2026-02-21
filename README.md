@@ -69,5 +69,6 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 <img width="12" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HeshamElsayed94&theme=highcontrast&hide_border=false)
 <img width="12" />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeshamElsayed94&show_icons=true&theme=radical)
+<img width="12" />
 </div>
