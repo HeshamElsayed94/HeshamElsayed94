@@ -69,6 +69,6 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=HeshamElsayed94&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HeshamElsayed94&show_icons=true&theme=vision-friendly-dark)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HeshamElsayed94&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
